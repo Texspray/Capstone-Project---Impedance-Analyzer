@@ -10,10 +10,9 @@
 ---
 
 ## 📸 Project Overview
-*[DICA: Coloque aqui uma foto bonita da sua placa montada ou uma renderização 3D do Altium]*
-![Device Prototype](images/prototype_photo.jpg)
 
-This project aims to develop a custom instrumentation device capable of measuring complex impedance (magnitude and phase) across a frequency range. The system integrates an **AD5933 Impedance Converter Network Analyzer** with a microcontroller to perform frequency sweeps and process data.
+
+Development of a custom instrumentation device capable of measuring complex impedance (magnitude and phase) across a frequency range. The system integrates an **AD5933 Impedance Converter Network Analyzer** with a microcontroller to perform frequency sweeps and process data.
 
 ### Key Features
 * **Core Sensor:** Analog Devices AD5933 (1 MSPS, 12-bit ADC).
