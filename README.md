@@ -16,9 +16,9 @@ Development of a custom instrumentation device capable of measuring complex impe
 
 ### Key Features
 * **Core Sensor:** Analog Devices AD5933 (1 MSPS, 12-bit ADC).
-* **Microcontroller:** [Ex: STM32] for I2C control and data processing.
-* **Frequency Range:** [Ex: 1 kHz to 100 kHz].
-* **User Interface:** [Ex: OLED Display / Python PC Interface].
+* **Microcontroller:** [STM32] for I2C control and data processing.
+* **Frequency Range:** [1 kHz to 100 kHz].
+* **User Interface:** [Python PC Interface].
 * **Calibration:** Implements gain factor calibration for higher accuracy.
 
 ---
