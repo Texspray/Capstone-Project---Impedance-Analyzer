@@ -28,6 +28,6 @@ Development of a custom instrumentation device capable of measuring complex impe
 ```text
 ├── Hardware/          # Altium Designer Project (Schematics, PCB, BOM)
 ├── Firmware/          # Source code (C/C++) for the Microcontroller
-├── Python_App/        # (Optional) PC Interface for data visualization
+├── Python_GUI/        # (Optional) PC Interface for data visualization
 ├── Docs/              # Datasheets and Thesis PDF
 └── Images/            # Images for this README
