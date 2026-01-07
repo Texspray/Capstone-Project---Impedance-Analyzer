@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/C%2B%2B-Firmware-blue)
 ![Hardware](https://img.shields.io/badge/Hardware-Altium%20Designer-orange)
 
-> **Repository for my Final Year Project (TCC) in Electronic Engineering.**
+> **Repository for my Final Year Project (TCC) in Electronic Engineering.** [UPDATING]
 > Design and implementation of a low-cost, portable impedance analyzer based on the AD5933 IC.
 
 ---
